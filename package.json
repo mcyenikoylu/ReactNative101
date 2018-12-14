@@ -1,0 +1,29 @@
+{
+  "name": "ReactNative101",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.6.3",
+    "react-dom": "^16.6.3",
+    "react-native": "0.57.7",
+    "webpack-cli": "^3.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-jest": "23.6.0",
+    "babel-loader": "^8.0.4",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.50.0",
+    "react-test-renderer": "16.6.1",
+    "webpack": "^4.27.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
