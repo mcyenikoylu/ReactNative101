@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\TECS07\\Documents\\ReactNative101\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
+            "outputFile": "C:\\Users\\TECS07\\Documents\\GitHub\\ReactNative101\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\TECS07\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\92a455d2a071a631133893ac682bffe1\\res\\values-zu\\values-zu.xml",

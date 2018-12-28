@@ -16,15 +16,11 @@ const instructions = Platform.select({
     'Shake or press menu button for dev menu',
 });
 
-type Props = {
-  mcyValue: "deneme",
-  mcyCenker: "test",
-};
-export default class App extends Component<Props> {
+export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Welcome to React Native!</Text>
+        <Text style={styles.welcome}>Hızlı Böcek</Text>
         <Text style={styles.instructions}>To get started, edit App.js</Text>
         <Text style={styles.instructions}>Cenker adam business man {this.props.mcyValue} </Text>
         <Text style={styles.instructions}>{instructions}</Text>
